@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\APIT\APIT\bin\Debug\APIT.exe.config
+C:\Users\User\source\repos\APIT\APIT\bin\Debug\APIT.exe
+C:\Users\User\source\repos\APIT\APIT\bin\Debug\APIT.pdb
+C:\Users\User\source\repos\APIT\APIT\obj\Debug\APIT.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\APIT\APIT\obj\Debug\APIT.Form1.resources
+C:\Users\User\source\repos\APIT\APIT\obj\Debug\APIT.Properties.Resources.resources
+C:\Users\User\source\repos\APIT\APIT\obj\Debug\APIT.csproj.GenerateResource.cache
+C:\Users\User\source\repos\APIT\APIT\obj\Debug\APIT.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\APIT\APIT\obj\Debug\APIT.exe
+C:\Users\User\source\repos\APIT\APIT\obj\Debug\APIT.pdb
+C:\Users\User\source\repos\APIT\APIT\obj\Debug\APIT.Login.resources
+C:\Users\User\source\repos\APIT\APIT\obj\Debug\APIT.Form2.resources
+C:\Users\User\source\repos\APIT\APIT\obj\Debug\APIT.Form3.resources
+C:\Users\User\source\repos\APIT\APIT\bin\Debug\ApitSystemDB.mdf
+C:\Users\User\source\repos\APIT\APIT\bin\Debug\ApitSystemDB_log.ldf
+C:\Users\User\source\repos\APIT\APIT\obj\Debug\APIT.Form5.resources
